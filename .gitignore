@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Projectiles/BP_Projectile_FireArrow.uasset
+Content/Projectiles/BP_Projectile_Base.uasset
